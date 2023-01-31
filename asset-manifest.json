@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple_contact_manager/static/css/main.1824b995.css",
+    "main.js": "/simple_contact_manager/static/js/main.c245f2c8.js",
+    "index.html": "/simple_contact_manager/index.html",
+    "main.1824b995.css.map": "/simple_contact_manager/static/css/main.1824b995.css.map",
+    "main.c245f2c8.js.map": "/simple_contact_manager/static/js/main.c245f2c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.c245f2c8.js"
+  ]
+}
